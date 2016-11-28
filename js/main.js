@@ -3,4 +3,4 @@ $('.card-header').click(function() {
     if ($(this).hasClass('collapsed')) {
         $(this).find('.fa-accordion').addClass('active-fa');
     }
-});
+}); 
