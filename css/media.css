@@ -1,0 +1,22 @@
+@media (max-width: 991px) {
+  .btn-start {
+    font-size: 12px; } }
+
+@media (max-width: 767px) {
+  .sidebar {
+    margin: 15px; }
+  .btn-start {
+    font-size: 16px; } }
+
+@media (max-width: 500px) {
+  .faq-body .card-block {
+    padding: 5px 25px 25px; }
+  .header {
+    margin-bottom: 20px; } }
+
+@media (max-width: 360px) {
+  .h1:after {
+    margin-left: -57px;
+    top: 0; } }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJtZWRpYS5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiQG1lZGlhIChtYXgtd2lkdGg6IDk5MXB4KSB7XG4gIC5idG4tc3RhcnQge1xuICAgIGZvbnQtc2l6ZTogMTJweDsgfSB9XG5cbkBtZWRpYSAobWF4LXdpZHRoOiA3NjdweCkge1xuICAuc2lkZWJhciB7XG4gICAgbWFyZ2luOiAxNXB4OyB9XG4gIC5idG4tc3RhcnQge1xuICAgIGZvbnQtc2l6ZTogMTZweDsgfSB9XG5cbkBtZWRpYSAobWF4LXdpZHRoOiA1MDBweCkge1xuICAuZmFxLWJvZHkgLmNhcmQtYmxvY2sge1xuICAgIHBhZGRpbmc6IDVweCAyNXB4IDI1cHg7IH1cbiAgLmhlYWRlciB7XG4gICAgbWFyZ2luLWJvdHRvbTogMjBweDsgfSB9XG5cbkBtZWRpYSAobWF4LXdpZHRoOiAzNjBweCkge1xuICAuaDE6YWZ0ZXIge1xuICAgIG1hcmdpbi1sZWZ0OiAtNTdweDtcbiAgICB0b3A6IDA7IH0gfVxuIl0sImZpbGUiOiJtZWRpYS5jc3MiLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ== */

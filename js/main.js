@@ -1,0 +1,1 @@
+$(".card-header").click(function(){$(".fa-accordion").removeClass("active-fa"),$(this).hasClass("collapsed")&&$(this).find(".fa-accordion").addClass("active-fa")});

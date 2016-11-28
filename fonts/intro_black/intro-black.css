@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Intro-black';
+  src: url('../fonts/intro_black/intro-black.woff') format('woff'),
+       url('../fonts/intro_black/intro-black.ttf') format('truetype'),
+       url('../fonts/intro_black/intro-black.svg#Intro-Black') format('svg'),
+       url('../fonts/intro_black/intro_black.eot'),
+       url('../fonts/intro_black/intro_black.woff2') format('woff2'),
+       url('../fonts/intro_black/intro_black.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
